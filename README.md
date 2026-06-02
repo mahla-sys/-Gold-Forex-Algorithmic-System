@@ -27,7 +27,7 @@ A sneak peek into the low-level infrastructure showcasing the `CRadio` core clas
 ### 🗂️ Modular File Structure & Lifecycle Evolution
 The component structure under MetaEditor highlights strict modular versioning. Each sub-script represents a focused iteration of algorithmic filters and optimized execution parameters, proving a long-term development lifecycle.
 
-![Modular File Structure](https://github.com/mahla-sys/-Gold-Forex-Algorithmic-System/blob/main/InShot_20260601_200956260.jpg?raw=tru)
+![Modular File Structure](https://github.com/mahla-sys/-Gold-Forex-Algorithmic-System/blob/main/Screenshot%202026-06-01%20193915.png?raw=true)
 
 ### 📜 Real-Time Logic & Dynamic Filtering Logs
 Live terminal logs executing inside the strategy tester. This confirms the production readiness of the environment, specifically demonstrating the system dynamically blocking low-probability trades using mathematical threshold filters (e.g., ADX indicators).
