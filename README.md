@@ -37,9 +37,9 @@ Live terminal logs executing inside the strategy tester. This confirms the produ
 ---
 
 ## 🛠️ Technology Stack
-* **Languages:** Python / MQL5 / Pine Script
+* **Languages:**  MQL5 
 * **Architecture Style:** Event-Driven, Modular System Design
-* **Integrations:** TradingView Webhooks / MetaTrader 5 API / Bybit Secure Connection
+* **Integrations:** MetaTrader 5
 
 ## ⚠️ Repository Notice
 *This repository contains the abstract system architecture, core routing logic, and framework documentation. The proprietary execution source code and high-frequency live strategies remain protected for confidentiality.*
