@@ -91,8 +91,5 @@ Have an indicator, trading setup, or Pine Script strategy you want automated or 
 - **GitHub:** [github.com/mahla-sys](https://github.com/mahla-sys)
 
 ---
-*Notice: This repository showcases the architectural patterns, routing logic, and core component designs. Proprietary execution code and private trading algorithms are protected under confidentiality.* haryo47 بفرست:
+*Notice: This repository showcases the architectural patterns, routing logic, and core component designs. Proprietary execution code and private trading algorithms are protected under confidentiality.
 
-
-این کار دقیقاً همان «صفحه فرود متمرکز» است که می‌خواستیم، بدون اینکه به بقیه
-رزومه و اعتبارت دست بزنیم!
